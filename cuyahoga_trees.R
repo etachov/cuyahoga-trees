@@ -44,7 +44,7 @@ texttheme <-theme(plot.title = element_text(size = 28,
 
 ## tract-level visualizations
 
-# scatter plot of ExTCPct (Existing Tree Canopy % of Area) and PoPLPct (Possible Planting Area Total as Percent of Area)
+# scatter plot of ExTCPct (Existing Tree Canopy % of Area) and income
 ggplot(cuyClean, aes(income, ExTCPct)) + 
   geom_point(color = "#0868ac", size = 3.5, alpha = .4, position = "jitter") + 
   scale_y_continuous(breaks = c(0, 0.2, 0.4, 0.6, 0.8 ),
@@ -59,7 +59,7 @@ ggplot(cuyClean, aes(income, ExTCPct)) +
 
 ggsave("Tree Coverage and Income.png", width = 10.4, height = 7.32)
 
-# scatter plot of income and gap between PoPLPct and ExTCPct 
+# scatter plot of income and gap between PoPLPct (Possible Planting Area Total as Percent of Area) and ExTCPct (Existing Tree Canopy % of Area)
 ggplot(cuyClean, aes(income, diff)) + 
   geom_point(color = "#0868ac", size = 3.5, alpha = .4, position = "jitter") + 
   scale_y_continuous(breaks = c(0, 0.2, 0.4, 0.6, 0.8, 1),
