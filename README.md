@@ -6,10 +6,10 @@ The tree canopy data is from Cuyahoga County's 2013 <a href="http://cuyahoga.org
 
 The three charts this code creates (two of which ran in the article) are presented below:
 
-![](https://github.com/etachov/cuyahoga-trees/blob/master/Tree Coverage and Income.png)
+![](https://github.com/etachov/cuyahoga-trees/blob/master/Tree%20Coverage%20and%20Income.png)
 
-![](https://github.com/etachov/cuyahoga-trees/blob/master/Income and Tree Gap.png)
+![](https://github.com/etachov/cuyahoga-trees/blob/master/Income%20and%20Tree Gap.png)
 
-![](https://github.com/etachov/cuyahoga-trees/blob/master/Gap between Actual and Potential Coverage.png)
+![](https://github.com/etachov/cuyahoga-trees/blob/master/Gap%20between%20Actual%20and%20Potential%20Coverage.png)
 
 
