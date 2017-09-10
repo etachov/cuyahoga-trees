@@ -8,7 +8,9 @@ The three charts this code creates (two of which ran in the article) are present
 
 ![](https://github.com/etachov/cuyahoga-trees/blob/master/Tree%20Coverage%20and%20Income.png)
 
-![](https://github.com/etachov/cuyahoga-trees/blob/master/Income%20and%20Tree Gap.png)
+
+![](https://github.com/etachov/cuyahoga-trees/blob/master/Income%20and%20Tree%20Gap.png)
+
 
 ![](https://github.com/etachov/cuyahoga-trees/blob/master/Gap%20between%20Actual%20and%20Potential%20Coverage.png)
 
